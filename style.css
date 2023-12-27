@@ -1,0 +1,81 @@
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100');
+    background-position: center;
+}
+
+/* Glassmorphism card effect */
+.card {
+    backdrop-filter: blur(7px) saturate(139%);
+    -webkit-backdrop-filter: blur(7px) saturate(139%);
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+#title{
+    text-align: center;
+    font-family:cursive;
+    font-weight: 600;
+    color:black(0, 0, 0);
+}
+.image{
+    width: 290px;
+    /* width:250px; */
+    height: 200px;
+}
+.card-header{
+    font-family: cursive;
+    font-stretch: expanded;
+    font-weight:bolder;
+    font-size:large;
+    color: rgb(3, 46, 30);
+    /* background-color: #ce71af; */
+}
+.card-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-size: small; */
+    color:rgb(40, 197, 241);
+    font-family:cursive;
+}
+.btn_cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-header{
+    background-color: cadetblue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-body{
+    background-color: cadetblue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-footer{
+    background-color: cadetblue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-title{
+    background-color: cadetblue;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
