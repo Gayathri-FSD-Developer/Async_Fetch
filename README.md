@@ -16,5 +16,5 @@
 <h2>And my output will be with responsivnes</h2>
 <img src="fianl_res.jpg" alt="result1" height="300" width="350">
 <img src="fianl_res1.jpg" alt="result2" height="300" width="350">
-<img src="final_result_respo.jpg" alt="result2" height="200" width="200">
+<img src="final_result_respo.jpg" alt="result2" height="200" width="300">
 
