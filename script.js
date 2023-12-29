@@ -7,7 +7,7 @@
       var h=document.createElement("h1");
       h.id="title";
       h.classList.add("text-center");
-      h.innerText="Know Your Country Wheather";
+      h.innerText="Weather Forecast";
 
       // Create the new div with rows class
       var row = document.createElement("div");
